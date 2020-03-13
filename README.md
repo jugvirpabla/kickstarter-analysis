@@ -8,3 +8,4 @@ I investigated to determine which month was the best month to start a Kickstarte
 I found that that summer months produce the most success.
 ![best months](https://github.com/jugvirpabla/kickstarter-analysis/blob/master/Best%20month.png)
 I also determined if there was a relationship between how successful a campaign was versus the amount of capital needed for the Kickstater. 
+![Outcomes Based on Goal](https://github.com/jugvirpabla/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Goal.png)
